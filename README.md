@@ -4,36 +4,23 @@
 <h1 align="center"> Miku Nakano (Beta)
 </h1>
 <p align="center"> 
-  Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by Fantox to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
-
-<p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Miku-MD?label=Fork&style=social">
-    
-    
-  <a href="https://github.com/FantoX001/Miku-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Miku-MD?style=social">
-  </a>
+  Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by ✨️MAGIC✨️ to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
  
-<a href="https://github.com/FantoX001">
-    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
+<a href="https://github.com/Fw437f/MIKU-V.1.0.0">
   </a>
   
   <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
+  <a href="https://github.com/Fw437f/MIKU-V.1.0.0">
     
     
-<a href="https://github.com/FantoX001">
-    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
-  </a>
+<a href="https://github.com/Fw437f/MIKU-V.1.0.0">
   
 </br>
       
 </br> 
    
-### ✧✧ Maintained by [Fantox](https://github.com/FantoX001) for bug fixes and more improments. More features  are coming soon. Check this main repo once in week to stay updated about latest updates.
+### ✧✧ Maintained by [✨️MAGIC✨️](https://github.com/Fw437f) for bug fixes and more improments. More features  are coming soon. Check this main repo once in week to stay updated about latest updates.
 </br></br>
   
   
@@ -43,7 +30,7 @@
 -  Change `Bot Prefix` in line no `23` inside global.prefa. [ Put anything you want except @ ] 
 -  Change `Owner Name` in line no `16`
 -  Change `Sticker packname` and `author` in line no `14` and `15`
--  Using Android ?    [Click to Fork Repo](https://github.com/FantoX001/Miku-MD/fork)
+-  Using Android ?
 <br>
 <br>
 
@@ -111,7 +98,7 @@
 ✧ The main motto of this project is to provide Beginner Devs a base without any limitations 😊.
 ✧ Check "Credits" section and Support Them too.
 
--regards FantoX001
+-regards ✨️MAGIC✨️
 ```
 
 </br>
@@ -124,23 +111,7 @@ Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 
 ## ✧✧✧ Heroku Deployment Method:
 
-#### ✧ [Fork](https://github.com/FantoX001/Miku-MD/fork) this repo.
-
-#### ✧ Click this scan button below and scan the given QR within 15 seconds from your WhatsApp. 
-<a href="https://miku-qr--fantox001.repl.co/"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
-</a>
-#### Or, Scan indirectly from my `repl.it`
-
-#### <a href="https://replit.com/@FantoX001/Miku-QR?v=1"><img src="https://i.ibb.co/pPQjJL2/replit-logo-png-transparent.png" alt="replit-logo-png-transparent" border="0"  width="120"></a>
-#### ✧ Download the `session.json` file and upload it on the hompage of your `Fork`.
-#### ✧ Go to your [Heroku](https://www.heroku.com/) account.
-#### ✧ Create a `random app` in Heroku with any name.
-#### ✧ Connect your `GitHub` with `Heroku`
-#### ✧ Then connect `Miku's repo` from your GitHub.
-#### ✧ Go to Heroku's `settings` ---> `Add Buildpacks` then connect these 3 buildpacks one by one mentionned    below.
-#### ✧ Then come back to `Heroku` ---> `Deploy` then deploy the app
-#### ✧ After deploy is finished goto `Heroku` ---> `Resources` and turn on the switch.
-#### ✧ Enjoy :)
+#### ✧ [Fork](https://github.com/Fw437f/MIKU V.1.0.0/fork) this repo.
 
 
 ## ✧ Heroku Builbpacks:
@@ -213,7 +184,7 @@ npm i
 npm start
 
 ``` 
-- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/FantoX001/Miku-MD/fork) this repo and changed owner number in `config.js`).
+- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/Fw437f/MIKU V.1.0.0/fork) this repo and changed owner number in `config.js`).
 - This method will work on most other bots too.
 
 #### ✧ To stop a bot in Userland
@@ -239,15 +210,15 @@ npm start
 #### ✧✧ Note as UserLand is a physical server so you must keep on your internet connection active to make sure bot works.
 <br><br>
 
-## ✧✧✧ Join My Whatsapp Group for Support
+## ✧✧✧ Join My Whatsapp Group
 
-<a href="https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/C4UvfSXyYZoDSV3gJDyCm3"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ## ✧✧✧ CMD Deployment Method (Without downloading this code as .zip)
 ```
-git clone https://github.com/FantoX001/Miku-MD.git
-cd Miku-MD
+git clone https://github.com/Fw437f/MIKU-V.1.0.0.git
+cd MIKU V.1.0.0
 npm i
 npm start
 ```
@@ -308,16 +279,9 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
  
 
 
-## ✧ Contribution:
-- Project [Contributors](https://github.com/FantoX001/Miku-MD/graphs/contributors)
-- There are many more contributors in this project.
-- Please feel free to contribute in this project. I will merge your respected contribute if i see it's really necessary.
-
-
-
 
 ## ✧ Help Me:
-- [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to make me feel motivated.
+- [`Follow`] me on GitHub to make me feel motivated.
 - Give my project a ⭐ if you liked it.
 
      
